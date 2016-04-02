@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/demo.dir/TestCmake/TestCmakeMain.cpp.o  -o ../../Unit/demo  -L/home/mfs/hub/collectTool/src/lib -rdynamic ../../lib/liblog.so -Wl,-rpath,/home/mfs/hub/collectTool/src/lib 

@@ -1,2 +1,0 @@
-/home/mfs/hub/collectTool/src/build/UnitTest/CMakeFiles/demo.dir
-/home/mfs/hub/collectTool/src/build/api/CMakeFiles/log.dir
