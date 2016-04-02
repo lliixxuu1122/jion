@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../api/include/log/log.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/mfs/hub/collectTool/src/UnitTest/TestCmake/TestCmakeMain.cpp
+log.h
+/home/mfs/hub/collectTool/src/UnitTest/TestCmake/log.h
+

@@ -1,0 +1,4 @@
+
+#
+PROJECT(collect CXX)
+
