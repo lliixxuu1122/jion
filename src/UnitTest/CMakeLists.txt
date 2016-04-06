@@ -37,7 +37,7 @@ MESSAGE("===============UNIT TEST CONFIG BIN FILE END ==========================
 MESSAGE("=================UNIT TEST LINK BEGIN======================================")
 TARGET_LINK_LIBRARIES(demo log)
 
-MESSAGE("=================UNIT TEST LINK END======================================")
+MESSAGE("=================UNIT TEST LINK END========================================")
 
 
 
